@@ -1,0 +1,20 @@
+# Entorno virtual
+.calc/
+
+# Archivos generados por Python
+__pycache__/
+*.pyc
+
+# Archivos generados por pytest
+.pytest_cache/
+
+# Información de cobertura
+.coverage
+htmlcov/
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+
+# Caché de pytest
+.pytest_cache/
